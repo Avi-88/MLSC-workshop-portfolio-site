@@ -1,0 +1,5 @@
+for css gradients  - https://hypercolor.dev/
+skill card reference from bootstrap - https://getbootstrap.com/docs/5.2/examples/carousel/
+navbar form boostrap reference - https://getbootstrap.com/docs/5.2/examples/headers/
+email me button reference (button number 64) - https://getcssscan.com/css-buttons-examples
+both neon text effects reference - https://freefrontend.com/css-glow-text-effects/
